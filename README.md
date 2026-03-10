@@ -79,6 +79,5 @@ A personal microservices platform running on a K3s home lab. Pure GitOps: every 
 
 - Blog → [capivaracode.com](https://capivaracode.com)
 - LinkedIn → [linkedin.com/in/lucio-carvalho-jr-58a34322](https://linkedin.com/in/lucio-carvalho-jr-58a34322)
-- Email → lucio.carvalho.197@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer)
