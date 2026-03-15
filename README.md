@@ -57,24 +57,6 @@ A personal microservices platform running on a K3s home lab. Pure GitOps: every 
 
 ---
 
-#### 📜 Certifications
-
-- AWS Certified Solutions Architect – Associate (SAA-C03)
-- AWS Certified Cloud Practitioner (CLF-C01)
-- Certified Kubernetes Administrator (CKA)
-- Red Hat Certified Engineer (RHCE)
-- Red Hat Certified System Administrator (RHCSA)
-- GitLab Certified Associate
-- DALF C1 — French
-
----
-
-#### 🌍 Languages
-
-`Portuguese` native &nbsp;|&nbsp; `English` fluent &nbsp;|&nbsp; `French` fluent (DALF C1)
-
----
-
 #### 📬 Contact
 
 - Blog → [capivaracode.com](https://capivaracode.com)
